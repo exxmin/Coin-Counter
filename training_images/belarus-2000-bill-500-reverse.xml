@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>belarus-2000-bill-500-reverse.jpg</filename>
+	<path>C:\Users\SM-PC\Desktop\Coin-Counter-master\data\images\train\belarus-2000-bill-500-reverse.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>589</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>belarus_ruble_500</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>10</ymin>
+			<xmax>1196</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

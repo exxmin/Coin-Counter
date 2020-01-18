@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images.jpg</filename>
+	<path>C:\Users\SM-PC\Desktop\Coin-Counter-master\data\images\train\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

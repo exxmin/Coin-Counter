@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>asdfasdf.jpg</filename>
+	<path>C:\Users\SM-PC\Desktop\Coin-Counter-master\data\images\train\asdfasdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czech_koruna_500</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>132</ymin>
+			<xmax>593</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

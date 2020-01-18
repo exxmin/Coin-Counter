@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>asasfdsasafdasfd.jpg</filename>
+	<path>C:\Users\SM-PC\Desktop\Coin-Counter-master\data\images\train\asasfdsasafdasfd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>158</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>belarus_ruble_500</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>320</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
